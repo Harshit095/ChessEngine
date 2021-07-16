@@ -1,6 +1,6 @@
 # Chess-Engine
 
-***Team Project (Electronics Club)- Prediction of best possible chess moves for given chessboard layouts using Convolutional Neural Networks.***
+Team Project (Electronics Club)- Prediction of best possible chess moves for given chessboard layouts using Convolutional Neural Networks.
 
 In the paper '[Reference (Res Paper)](https://github.com/harshraj3223/Chess-Engine/blob/main/Reference%20(Res%20Paper).pdf),' a total of seven different CNNs have been trained for building a chess engine module. The first CNN is for predicting a square from where the move would be made. The other six CNNs predict the possibility of each of the six distinct pieces in chess (considering the engine plays white's turns) to go to a particular position as a move.
 
